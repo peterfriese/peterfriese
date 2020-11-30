@@ -14,11 +14,11 @@ I'm a Developer Advocate (which is just a fancy word for "Software Engineer who 
 
 ## My recent videos
 <!-- YOUTUBE:START -->
-- [Adding data to Firestore from a SwiftUI App | Firebase Semi-live](https://www.youtube.com/watch?v=imTjGvSjBEw)
+- [Adding data to Firestore from a SwiftUI App](https://www.youtube.com/watch?v=imTjGvSjBEw)
 - [Sign in with Apple using Firebase Authentication](https://www.youtube.com/watch?v=BxQsdhglZtE)
-- [Mapping Firestore documents using Swift Codable | Firebase Semi-live](https://www.youtube.com/watch?v=3-yQeAf3bLE)
-- [SwiftUI: Fetching data from Firestore in real-time | Firebase Semi-live](https://www.youtube.com/watch?v=f6u3AnOKZd0)
-- [Build a to-do list app w/ SwiftUI & Firebase - Pt 3: Sign in with Apple | Firebase Semi-live](https://www.youtube.com/watch?v=6iTmteRd07Q)
+- [Mapping Firestore documents using Swift Codable](https://www.youtube.com/watch?v=3-yQeAf3bLE)
+- [SwiftUI: Fetching data from Firestore in real-time](https://www.youtube.com/watch?v=f6u3AnOKZd0)
+- [Build a to-do list app w/ SwiftUI & Firebase - Pt 3: Sign in with Apple](https://www.youtube.com/watch?v=6iTmteRd07Q)
 <!-- YOUTUBE:END -->
 
 
