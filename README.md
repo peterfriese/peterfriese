@@ -17,8 +17,8 @@ I'm a Developer Advocate (which is just a fancy word for "Software Engineer who 
 - [Using async/await in SwiftUI](https://www.youtube.com/watch?v=K6UzzJOXYsA)
 - [Meet an Extension: Resize images](https://www.youtube.com/watch?v=SmJk3HC7K1M)
 - [Adding data to Firestore from a SwiftUI App](https://www.youtube.com/watch?v=imTjGvSjBEw)
+- [SwiftUI Travel App UI - SwiftUI 2.0 Complex UI Tutorials - Hero Animations - Matched Geometry Effect](https://www.youtube.com/watch?v=ZAGvgqiXUec)
 - [Sign in with Apple using Firebase Authentication](https://www.youtube.com/watch?v=BxQsdhglZtE)
-- [Mapping Firestore documents using Swift Codable](https://www.youtube.com/watch?v=3-yQeAf3bLE)
 <!-- YOUTUBE:END -->
 
 
