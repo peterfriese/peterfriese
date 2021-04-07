@@ -14,11 +14,11 @@ I'm a Developer Advocate (which is just a fancy word for "Software Engineer who 
 
 ## My recent videos
 <!-- YOUTUBE:START -->
+- [Meet an Extension: Delete user data](https://www.youtube.com/watch?v=664ep0WOgo8)
 - [Using async/await with Firebase](https://www.youtube.com/watch?v=sEKw2BMcQtQ)
 - [Using async/await in SwiftUI](https://www.youtube.com/watch?v=K6UzzJOXYsA)
 - [Meet an Extension: Resize images](https://www.youtube.com/watch?v=SmJk3HC7K1M)
 - [Adding data to Firestore from a SwiftUI App](https://www.youtube.com/watch?v=imTjGvSjBEw)
-- [SwiftUI Travel App UI - SwiftUI 2.0 Complex UI Tutorials - Hero Animations - Matched Geometry Effect](https://www.youtube.com/watch?v=ZAGvgqiXUec)
 <!-- YOUTUBE:END -->
 
 
