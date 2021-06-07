@@ -5,11 +5,11 @@ on:
   workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
 jobs:
   update-readme-with-blog:
-    name: Update this repo's README with latest blog posts
+    name: Update this repo's README with latest YouTube videos in my Firebase playlist workflow
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          comment_tag_name: "YOUTUBE"
-          feed_list: "https://www.youtube.com/feeds/videos.xml?playlist_id=PLsnLd2esiGRSqrF-H4pXHw8LIAUIv7ipe"
+          comment_tag_name: "YOUTUBE-FIREBASE"
+          feed_list: "https://www.youtube.com/feeds/videos.xml?playlist_id=PLsnLd2esiGRTSZ049DhI_9enHFC0lPJVf"
