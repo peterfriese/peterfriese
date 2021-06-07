@@ -14,6 +14,10 @@ I'm a Developer Advocate (which is just a fancy word for "Software Engineer who 
 
 ## My recent videos
 <!-- YOUTUBE-ALL:START -->
+- [Building a Reusable Text Input Field With a Floating Label](https://www.youtube.com/watch?v=Sg0rfYL3utI)
+- [Building SwiftUI Components - Getting Started](https://www.youtube.com/watch?v=UhDdtdeW63k)
+- [Using async/await with Firebase](https://www.youtube.com/watch?v=sEKw2BMcQtQ)
+- [Using async/await in SwiftUI](https://www.youtube.com/watch?v=K6UzzJOXYsA)
 <!-- YOUTUBE-ALL:END -->
 
 ## My recent Firebase videos
