@@ -18,11 +18,11 @@ I'm a Developer Advocate (which is just a fancy word for "Software Engineer who 
 
 ## My recent Firebase videos
 <!-- YOUTUBE-FIREBASE:START -->
+- [What's new in Firebase (2021) RECAP](https://www.youtube.com/watch?v=ONrGwKaYcfo)
 - [Meet an Extension: Delete user data](https://www.youtube.com/watch?v=664ep0WOgo8)
-- [Using async/await with Firebase](https://www.youtube.com/watch?v=sEKw2BMcQtQ)
-- [Using async/await in SwiftUI](https://www.youtube.com/watch?v=K6UzzJOXYsA)
 - [Meet an Extension: Resize images](https://www.youtube.com/watch?v=SmJk3HC7K1M)
 - [Adding data to Firestore from a SwiftUI App](https://www.youtube.com/watch?v=imTjGvSjBEw)
+- [Sign in with Apple using Firebase Authentication](https://www.youtube.com/watch?v=BxQsdhglZtE)
 <!-- YOUTUBE-FIREBASE:END -->
 
 
