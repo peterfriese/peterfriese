@@ -14,6 +14,7 @@ I'm a Developer Advocate (which is just a fancy word for "Software Engineer who 
 
 ## My recent videos
 <!-- YOUTUBE-ALL:START -->
+- [Use the Magic of SwiftUI's Environment to Make Your SwiftUI Views Configurable](https://www.youtube.com/watch?v=KKxCWs-BorE)
 - [Building a Reusable Text Input Field With a Floating Label](https://www.youtube.com/watch?v=Sg0rfYL3utI)
 - [Building SwiftUI Components - Getting Started](https://www.youtube.com/watch?v=UhDdtdeW63k)
 - [Using async/await with Firebase](https://www.youtube.com/watch?v=sEKw2BMcQtQ)
