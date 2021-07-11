@@ -5,11 +5,11 @@ I'm a Developer Advocate (which is just a fancy word for "Software Engineer who 
 
 ## My recent posts on [peterfriese.dev](https://peterfriese.dev/)
 <!-- BLOG-POST-LIST:START -->
+- [Cooperative Task Cancellation](https://peterfriese.dev/swiftui-concurrenct-essentials-part2/)
 - [Getting Started with async/await in SwiftUI](https://peterfriese.dev/swiftui-concurrency-essentials-part1/)
 - [SwiftUI List Bindings](https://peterfriese.dev/swiftui-list-item-bindings-behind-the-scenes/)
 - [Mapping Firestore Data in Swift](https://peterfriese.dev/firestore-codable-the-comprehensive-guide/)
 - [Using async/await in SwiftUI](https://peterfriese.dev/async-await-in-swiftui/)
-- [Firebase Authentication: Migrating User Data](https://peterfriese.dev/replicating-reminder-swiftui-firebase-part4/)
 <!-- BLOG-POST-LIST:END -->
 
 ## My recent videos
