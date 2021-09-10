@@ -14,11 +14,11 @@ I'm a Developer Advocate (which is just a fancy word for "Software Engineer who 
 
 ## My recent videos
 <!-- YOUTUBE-ALL:START -->
-- [Exposing State](https://www.youtube.com/watch?v=eYrirXFLuZ8)
+- [SwiftUI: Exposing a View's State](https://www.youtube.com/watch?v=eYrirXFLuZ8)
 - [SwiftUI Concurrency Essentials: Task Cancellation](https://www.youtube.com/watch?v=KdHd4rwK_oc)
 - [Getting Started with SwiftUI Concurrency Essentials](https://www.youtube.com/watch?v=pvtWLmSRimk)
-- [Use the Magic of SwiftUI's Environment to Make Your SwiftUI Views Configurable](https://www.youtube.com/watch?v=KKxCWs-BorE)
-- [Building a Reusable Text Input Field With a Floating Label](https://www.youtube.com/watch?v=Sg0rfYL3utI)
+- [SwiftUI: Use the Magic of SwiftUI's Environment to Make Your SwiftUI Views Configurable](https://www.youtube.com/watch?v=KKxCWs-BorE)
+- [SwiftUI: Text Input Field With a Floating Label](https://www.youtube.com/watch?v=Sg0rfYL3utI)
 <!-- YOUTUBE-ALL:END -->
 
 ## My recent Firebase videos
