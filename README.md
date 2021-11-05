@@ -5,11 +5,11 @@ I'm a Developer Advocate (which is just a fancy word for "Software Engineer who 
 
 ## My recent posts on [peterfriese.dev](https://peterfriese.dev/)
 <!-- BLOG-POST-LIST:START -->
+- [Managing Focus in SwiftUI List Views](https://peterfriese.dev/swiftui-list-focus/)
 - [Swipe Actions in SwiftUI 3](https://peterfriese.dev/swiftui-listview-part4/)
 - [Styling List Views](https://peterfriese.dev/swiftui-listview-part3/)
 - [Building Dynamic Lists in SwiftUI](https://peterfriese.dev/swiftui-listview-part2/)
 - [Building Static Lists in SwiftUI](https://peterfriese.dev/swiftui-listview-part1/)
-- [Cooperative Task Cancellation](https://peterfriese.dev/swiftui-concurrency-essentials-part2/)
 <!-- BLOG-POST-LIST:END -->
 
 ## My recent videos
