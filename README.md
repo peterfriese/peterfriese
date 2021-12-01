@@ -23,11 +23,11 @@ I'm a Developer Advocate (which is just a fancy word for "Software Engineer who 
 
 ## My recent Firebase videos
 <!-- YOUTUBE-FIREBASE:START -->
+- [What is Firebase Authentication? | Better Safe than Sorry](https://www.youtube.com/watch?v=vBUk293QSKY)
 - [Meet an Extension: Send messages with MessageBird](https://www.youtube.com/watch?v=VhV0j4XytoQ)
 - [What&#39;s new in Firebase &lpar;2021&rpar; RECAP](https://www.youtube.com/watch?v=ONrGwKaYcfo)
 - [Meet an Extension: Delete user data](https://www.youtube.com/watch?v=664ep0WOgo8)
 - [Meet an Extension: Resize images](https://www.youtube.com/watch?v=SmJk3HC7K1M)
-- [Adding data to Firestore from a SwiftUI App](https://www.youtube.com/watch?v=imTjGvSjBEw)
 <!-- YOUTUBE-FIREBASE:END -->
 
 
