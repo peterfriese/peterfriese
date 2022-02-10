@@ -23,11 +23,11 @@ I'm a Developer Advocate (which is just a fancy word for "Software Engineer who 
 
 ## My recent Firebase videos
 <!-- YOUTUBE-FIREBASE:START -->
+- [3 easy tips for calling async APIs | Firebase &amp; SwiftUI](https://www.youtube.com/watch?v=j5htIyxmmzA)
 - [Meet an Extension: Analyze Toxicity](https://www.youtube.com/watch?v=3nilbcBGW0c)
 - [Getting started with Firebase Authentication on the web - Firebase Fundamentals](https://www.youtube.com/watch?v=rbuSx1yEgV8)
 - [What is Firebase Authentication? | Better Safe than Sorry](https://www.youtube.com/watch?v=vBUk293QSKY)
 - [Meet an Extension: Send messages with MessageBird](https://www.youtube.com/watch?v=VhV0j4XytoQ)
-- [What&#39;s new in Firebase &lpar;2021&rpar; RECAP](https://www.youtube.com/watch?v=ONrGwKaYcfo)
 <!-- YOUTUBE-FIREBASE:END -->
 
 
