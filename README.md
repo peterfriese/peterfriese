@@ -14,11 +14,11 @@ I'm a Developer Advocate (which is just a fancy word for "Software Engineer who 
 
 ## My recent videos
 <!-- YOUTUBE-ALL:START -->
+- [SwiftUI: Packaging Views](https://www.youtube.com/watch?v=RuFCNEf4P7E)
 - [SwiftUI: Custom Validation Handling](https://www.youtube.com/watch?v=kl7LgoBuphM)
 - [SwiftUI: Exposing a View&#39;s State](https://www.youtube.com/watch?v=eYrirXFLuZ8)
 - [Swift Concurrency Essentials: Task Cancellation](https://www.youtube.com/watch?v=KdHd4rwK_oc)
 - [Swift Concurrency Essentials: Getting Started](https://www.youtube.com/watch?v=pvtWLmSRimk)
-- [SwiftUI: Use the Magic of SwiftUI&#39;s Environment to Make Your SwiftUI Views Configurable](https://www.youtube.com/watch?v=KKxCWs-BorE)
 <!-- YOUTUBE-ALL:END -->
 
 ## My recent Firebase videos
