@@ -23,11 +23,11 @@ I'm a Developer Advocate (which is just a fancy word for "Software Engineer who 
 
 ## My recent Firebase videos
 <!-- YOUTUBE-FIREBASE:START -->
+- [Show &amp; Tell: Classkick | Firebase Stories](https://www.youtube.com/watch?v=VZxTAnFb7dU)
 - [Keeping your app secure with App Check | Better Safe than Sorry](https://www.youtube.com/watch?v=TzLON3oVGE0)
+- [Show &amp; Tell: MOIA, FAVES | Firebase Stories](https://www.youtube.com/watch?v=4uiazEB8N3A)
 - [Getting started with Firebase on Apple platforms - Firebase Fundamentals](https://www.youtube.com/watch?v=F9Gs_pfT3hs)
 - [3 easy tips for calling async APIs | Firebase &amp; SwiftUI](https://www.youtube.com/watch?v=j5htIyxmmzA)
-- [Meet an Extension: Analyze Toxicity](https://www.youtube.com/watch?v=3nilbcBGW0c)
-- [Getting started with Firebase Authentication on the web - Firebase Fundamentals](https://www.youtube.com/watch?v=rbuSx1yEgV8)
 <!-- YOUTUBE-FIREBASE:END -->
 
 
