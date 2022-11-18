@@ -37,3 +37,4 @@ I'm a Developer Advocate (which is just a fancy word for "Software Engineer who 
 - Writing about stuff I built on my blog, [peterfriese.dev](https://peterfriese.dev/) ✒️
 - Talking all things Firebase 🔥 and Swift 🍏 on [YouTube](https://www.youtube.com/channel/UCUr1KzSE1ubrYhTVriuiNRQ)
 - Chatting away on [Twitter](https://twitter.com/peterfriese) 🐦
+- Oh, yeah - and of course, I am now on Mastodon: <a rel="me" href="https://iosdev.space/@peterfriese">@peterfriese@iosdev.space</a>
