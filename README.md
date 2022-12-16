@@ -14,11 +14,11 @@ I'm a Developer Advocate (which is just a fancy word for "Software Engineer who 
 
 ## My recent videos
 <!-- YOUTUBE-ALL:START -->
+- [I talked to ChatGPT for 1.5hrs and all I got was a lousy todo list app](https://www.youtube.com/watch?v=d2NAzbk5cBQ)
 - [SwiftUI: Packaging Views](https://www.youtube.com/watch?v=RuFCNEf4P7E)
 - [SwiftUI: Custom Validation Handling](https://www.youtube.com/watch?v=kl7LgoBuphM)
 - [SwiftUI: Exposing a View&#39;s State](https://www.youtube.com/watch?v=eYrirXFLuZ8)
 - [Swift Concurrency Essentials: Task Cancellation](https://www.youtube.com/watch?v=KdHd4rwK_oc)
-- [Swift Concurrency Essentials: Getting Started](https://www.youtube.com/watch?v=pvtWLmSRimk)
 <!-- YOUTUBE-ALL:END -->
 
 ## My recent Firebase videos
