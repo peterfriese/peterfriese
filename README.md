@@ -23,11 +23,11 @@ I'm a Developer Advocate (which is just a fancy word for "Software Engineer who 
 
 ## My recent Firebase videos
 <!-- YOUTUBE-FIREBASE:START -->
+- [Authentication and onboarding  | Better Safe than Sorry](https://www.youtube.com/watch?v=DOqrVsvzcAI)
 - [Show &amp; Tell: Rowy | Firebase Stories](https://www.youtube.com/watch?v=xXZzobTPojs)
 - [We need to talk about email and password auth | Better Safe than Sorry](https://www.youtube.com/watch?v=9_qInRTrYs0)
 - [Show &amp; Tell: La Haus | Firebase Stories](https://www.youtube.com/watch?v=SlLiCnQTDi8)
 - [Getting started with sign in with Apple using Firebase Authentication on Apple platforms](https://www.youtube.com/watch?v=HyiNbqLOCQ8)
-- [Getting started with Firebase Auth for Apple platforms - Firebase Fundamentals](https://www.youtube.com/watch?v=q-9lx7aSWcc)
 <!-- YOUTUBE-FIREBASE:END -->
 
 
