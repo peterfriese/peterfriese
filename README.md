@@ -5,11 +5,11 @@ I'm a Developer Advocate (which is just a fancy word for "Software Engineer who 
 
 ## My recent posts on [peterfriese.dev](https://peterfriese.dev/)
 <!-- BLOG-POST-LIST:START -->
+- [Styling SwiftUI Views](https://peterfriese.dev/posts/swiftui-styling-views)
 - [Previewing Stateful SwiftUI Views](https://peterfriese.dev/posts/swiftui-previews-interactive)
 - [Asynchronous programming with SwiftUI and Combine](https://peterfriese.dev/posts/combine-vs-async)
 - [Building a Custom Combine Operator for Exponential Backoff](https://peterfriese.dev/posts/swiftui-combine-custom-operators)
 - [Error Handling with Combine and SwiftUI](https://peterfriese.dev/posts/swiftui-combine-networking-errorhandling)
-- [Calling asynchronous Firebase APIs from Swift](https://peterfriese.dev/posts/firebase-async-calls-swift)
 <!-- BLOG-POST-LIST:END -->
 
 ## My recent videos
