@@ -23,11 +23,11 @@ I'm a Developer Advocate (which is just a fancy word for "Software Engineer who 
 
 ## My recent Firebase videos
 <!-- YOUTUBE-FIREBASE:START -->
+- [Happy Holidays from the Firebase team! #FirebaseUnwrapped](https://www.youtube.com/watch?v=gcG0ajhMo0M)
 - [Getting started with Cloud Firestore on Apple platforms](https://www.youtube.com/watch?v=1Fg7cwkmj_c)
+- [App Check for Firebase Auth #FirebaseUnwrapped](https://www.youtube.com/watch?v=ebymiGwttuw)
 - [Deleting user accounts &lpar;including Sign in with Apple token revocation&rpar;](https://www.youtube.com/watch?v=U1PIrZBgv0U)
-- [Getting started with email/link auth on iOS](https://www.youtube.com/watch?v=-OK7VG7Cl8I)
-- [Getting started with account linking and anonymous authentication](https://www.youtube.com/watch?v=6jGNSFdHHXc)
-- [Getting started with Google Sign-In on Apple platforms](https://www.youtube.com/watch?v=IzyOdKm0bWE)
+- [#AskFirebase on November 21, 2023](https://www.youtube.com/watch?v=n6-eep3Q_SA)
 <!-- YOUTUBE-FIREBASE:END -->
 
 
