@@ -23,11 +23,11 @@ I'm a Developer Advocate (which is just a fancy word for "Software Engineer who 
 
 ## My recent Firebase videos
 <!-- YOUTUBE-FIREBASE:START -->
+- [Fetch data from Firestore with one line of code](https://www.youtube.com/watch?v=sTRY1t28enw)
 - [Happy Holidays from the Firebase team! #FirebaseUnwrapped](https://www.youtube.com/watch?v=gcG0ajhMo0M)
 - [Getting started with Cloud Firestore on Apple platforms](https://www.youtube.com/watch?v=1Fg7cwkmj_c)
 - [App Check for Firebase Auth #FirebaseUnwrapped](https://www.youtube.com/watch?v=ebymiGwttuw)
 - [Deleting user accounts &lpar;including Sign in with Apple token revocation&rpar;](https://www.youtube.com/watch?v=U1PIrZBgv0U)
-- [#AskFirebase on November 21, 2023](https://www.youtube.com/watch?v=n6-eep3Q_SA)
 <!-- YOUTUBE-FIREBASE:END -->
 
 
