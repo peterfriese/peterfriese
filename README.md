@@ -5,11 +5,11 @@ I'm a Developer Advocate (which is just a fancy word for "Software Engineer who 
 
 ## My recent posts on [peterfriese.dev](https://peterfriese.dev/)
 <!-- BLOG-POST-LIST:START -->
+- [The secret formula for Apple&#39;s rounded corners](https://peterfriese.dev/blog/2023/dummy/)
 - [Styling SwiftUI Views](https://peterfriese.dev/blog/2023/swiftui-styling-views/)
 - [Previewing Stateful SwiftUI Views](https://peterfriese.dev/blog/2022/swiftui-previews-interactive/)
 - [Asynchronous programming with SwiftUI and Combine](https://peterfriese.dev/blog/2022/combine-vs-async/)
 - [Building a Custom Combine Operator for Exponential Backoff](https://peterfriese.dev/blog/2022/swiftui-combine-custom-operators/)
-- [Error Handling with Combine and SwiftUI](https://peterfriese.dev/blog/2022/swiftui-combine-networking-errorhandling/)
 <!-- BLOG-POST-LIST:END -->
 
 ## My recent videos
