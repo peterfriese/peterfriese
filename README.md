@@ -23,11 +23,11 @@ I'm a Developer Advocate (which is just a fancy word for "Software Engineer who 
 
 ## My recent Firebase videos
 <!-- YOUTUBE-FIREBASE:START -->
+- [Getting started with Genkit](https://www.youtube.com/watch?v=M8rfDySBBvM)
 - [Integrate AI features into your app with #Firebase Genkit](https://www.youtube.com/watch?v=LyG0dqNh2Ew)
 - [Use Codable to call your Cloud Functions from Swift](https://www.youtube.com/watch?v=LTDNQQOcyBo)
 - [Getting started with Cloud Storage for iOS](https://www.youtube.com/watch?v=rfBCPIJUcpI)
 - [Adding Firebase to your app with SPM #shorts](https://www.youtube.com/watch?v=KdS0CLFG-bA)
-- [Delete user accounts and their data](https://www.youtube.com/watch?v=Uid-N9RYCBQ)
 <!-- YOUTUBE-FIREBASE:END -->
 
 
