@@ -23,11 +23,11 @@ I'm a Developer Advocate (which is just a fancy word for "Software Engineer who 
 
 ## My recent Firebase videos
 <!-- YOUTUBE-FIREBASE:START -->
+- [Firebase After Hours #5 - Stop coding, start asking: Gemini in Firebase](https://www.youtube.com/watch?v=48domQPSTPc)
 - [Firebase After Hours #4 - Genkit: Tooltime](https://www.youtube.com/watch?v=01XOIhh2ibA)
 - [Getting started with Genkit](https://www.youtube.com/watch?v=M8rfDySBBvM)
 - [Hidden gems in Genkit&#39;s DevUI](https://www.youtube.com/watch?v=e5SqsAXGl_c)
 - [Firebase After Hours #3 - Genkit: More than Meets the AI!](https://www.youtube.com/watch?v=VFPsp7aURWA)
-- [Integrate AI features into your app with #Firebase Genkit](https://www.youtube.com/watch?v=LyG0dqNh2Ew)
 <!-- YOUTUBE-FIREBASE:END -->
 
 
