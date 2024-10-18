@@ -5,11 +5,11 @@ I'm a Developer Advocate (which is just a fancy word for "Software Engineer who 
 
 ## My recent posts on [peterfriese.dev](https://peterfriese.dev/)
 <!-- BLOG-POST-LIST:START -->
+- [Improve your app&#39;s UX with SwiftUI&#39;s task view modifier](https://peterfriese.dev/blog/2024/delay-task-modifier/)
 - [SwiftUI Hero Animations with NavigationTransition](https://peterfriese.dev/blog/2024/hero-animation/)
 - [Styling SwiftUI Views](https://peterfriese.dev/blog/2023/swiftui-styling-views/)
 - [Previewing Stateful SwiftUI Views](https://peterfriese.dev/blog/2022/swiftui-previews-interactive/)
 - [Asynchronous programming with SwiftUI and Combine](https://peterfriese.dev/blog/2022/combine-vs-async/)
-- [Building a Custom Combine Operator for Exponential Backoff](https://peterfriese.dev/blog/2022/swiftui-combine-custom-operators/)
 <!-- BLOG-POST-LIST:END -->
 
 ## My recent videos
