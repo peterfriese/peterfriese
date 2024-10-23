@@ -14,11 +14,11 @@ I'm a Developer Advocate (which is just a fancy word for "Software Engineer who 
 
 ## My recent videos
 <!-- YOUTUBE-ALL:START -->
+- [Peter Friese Live Stream](https://www.youtube.com/watch?v=jKWgS9Qwm6U)
 - [Building a second brain with SwiftUI, Firebase and Gemini](https://www.youtube.com/watch?v=PrVGACoKDmA)
 - [Building a second brain with SwiftUI, Firebase and Gemini &lpar;S1 E2&rpar;](https://www.youtube.com/watch?v=JwcniWZeczg)
 - [I talked to ChatGPT for 1.5hrs and all I got was a lousy todo list app](https://www.youtube.com/watch?v=d2NAzbk5cBQ)
 - [SwiftUI: Packaging Views](https://www.youtube.com/watch?v=RuFCNEf4P7E)
-- [SwiftUI: Custom Validation Handling](https://www.youtube.com/watch?v=kl7LgoBuphM)
 <!-- YOUTUBE-ALL:END -->
 
 ## My recent Firebase videos
