@@ -23,11 +23,11 @@ I'm a Developer Advocate (which is just a fancy word for "Software Engineer who 
 
 ## My recent Firebase videos
 <!-- YOUTUBE-FIREBASE:START -->
+- [Use JSON Mode to control the structure of a model&#39;s generated output](https://www.youtube.com/watch?v=LpfBxtCCkGM)
 - [Deploy Fearlessly with dry run in with the latest version of the Firebase CLI](https://www.youtube.com/watch?v=iuM_3RZ8RTE)
 - [LLMs get confused when counting the number of &quot;R&quot;s in &quot;Strawberry&quot;. But there&#39;s a solution!](https://www.youtube.com/watch?v=t2I2JDUivJs)
 - [September 2024: Vector Embeddings for Firestore, Custom signals in Remote Config, and more!](https://www.youtube.com/watch?v=kfXQXLlbszI)
 - [Firebase After Hours #5 - Stop coding, start asking: Gemini in Firebase](https://www.youtube.com/watch?v=48domQPSTPc)
-- [Firebase After Hours #4 - Genkit: Tooltime](https://www.youtube.com/watch?v=01XOIhh2ibA)
 <!-- YOUTUBE-FIREBASE:END -->
 
 
