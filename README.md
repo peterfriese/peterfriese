@@ -14,8 +14,8 @@ I'm a Developer Advocate (which is just a fancy word for "Software Engineer who 
 
 ## My recent videos
 <!-- YOUTUBE-ALL:START -->
-- [🧠 Build a Second Brain - SwiftUI Navigation &amp; WebView &lpar;Live&rpar; - Ep 2](https://www.youtube.com/watch?v=JwcniWZeczg)
-- [Building a second brain with SwiftUI, Firebase and Gemini](https://www.youtube.com/watch?v=RXAV7hBW7qY)
+- [🔥 Connect to Firestore - Second brain app with SwiftUI, Firebase and Gemini, Ep 3](https://www.youtube.com/watch?v=RXAV7hBW7qY)
+- [🌐 SwiftUI Navigation &amp; WebView  - Second brain app with SwiftUI, Firebase, and Gemini - Ep 2](https://www.youtube.com/watch?v=JwcniWZeczg)
 - [Peter Friese Live Stream](https://www.youtube.com/watch?v=jKWgS9Qwm6U)
 - [🧠 Build a Second Brain with me! &lpar;SwiftUI, Firebase, Gemini&rpar; - Ep 1](https://www.youtube.com/watch?v=PrVGACoKDmA)
 - [I talked to ChatGPT for 1.5hrs and all I got was a lousy todo list app](https://www.youtube.com/watch?v=d2NAzbk5cBQ)
