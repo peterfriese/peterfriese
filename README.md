@@ -14,11 +14,11 @@ I'm a Developer Advocate (which is just a fancy word for "Software Engineer who 
 
 ## My recent videos
 <!-- YOUTUBE-ALL:START -->
-- [Test - ignore this](https://www.youtube.com/watch?v=QuZEzkTQ3QE)
 - [Test - ignore this](https://www.youtube.com/watch?v=NAfRgrx7_so)
 - [🔥 Firestore &amp; SwiftUI - Second brain app with SwiftUI, Firebase and Gemini, Ep 4](https://www.youtube.com/watch?v=CouNXLciFws)
 - [🔥 Connect to Firestore - Second brain app with SwiftUI, Firebase and Gemini, Ep 3](https://www.youtube.com/watch?v=RXAV7hBW7qY)
 - [🌐 SwiftUI Navigation &amp; WebView  - Second brain app with SwiftUI, Firebase, and Gemini - Ep 2](https://www.youtube.com/watch?v=JwcniWZeczg)
+- [Peter Friese Live Stream](https://www.youtube.com/watch?v=jKWgS9Qwm6U)
 <!-- YOUTUBE-ALL:END -->
 
 ## My recent Firebase videos
