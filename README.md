@@ -14,11 +14,11 @@ I'm a Developer Advocate (which is just a fancy word for "Software Engineer who 
 
 ## My recent videos
 <!-- YOUTUBE-ALL:START -->
-- [🔥 Firestore &amp; SwiftUI - Second brain app with SwiftUI, Firebase and Gemini, Ep 5](https://www.youtube.com/watch?v=7WbQxpZSL1I)
-- [🔥 Firestore &amp; SwiftUI - Second brain app with SwiftUI, Firebase and Gemini, Ep 6](https://www.youtube.com/watch?v=NRkkgKacBy4)
-- [🔥 Firestore &amp; SwiftUI - Second brain app with SwiftUI, Firebase and Gemini, Ep 4](https://www.youtube.com/watch?v=CouNXLciFws)
-- [🔥 Second brain app: connect to Firestore - Ep 3](https://www.youtube.com/watch?v=RXAV7hBW7qY)
-- [🌐 Second brain app - SwiftUI Navigation &amp; WebView - Ep 2](https://www.youtube.com/watch?v=JwcniWZeczg)
+- [Ep 5: 🔥 Second Brain App: Link to URLs and Articles!](https://www.youtube.com/watch?v=7WbQxpZSL1I)
+- [Ep 6: 🤖 Gemini AI Summaries for our Second Brain App!](https://www.youtube.com/watch?v=NRkkgKacBy4)
+- [Ep 4: 🔥 SwiftUI &amp; Firestore: Power Up Your Second Brain App!](https://www.youtube.com/watch?v=CouNXLciFws)
+- [Ep 3: 🔥 Connect Your App to Firestore! &lpar;Second Brain - SwiftUI&rpar;](https://www.youtube.com/watch?v=RXAV7hBW7qY)
+- [Ep 2: 🌐 Second Brain App: SwiftUI Navigation &amp; Web Views](https://www.youtube.com/watch?v=JwcniWZeczg)
 <!-- YOUTUBE-ALL:END -->
 
 ## My recent Firebase videos
