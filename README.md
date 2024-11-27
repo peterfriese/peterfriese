@@ -14,11 +14,11 @@ I'm a Developer Advocate (which is just a fancy word for "Software Engineer who 
 
 ## My recent videos
 <!-- YOUTUBE-ALL:START -->
-- [Ep 5: 🔥 Second Brain App: Link to URLs and Articles!](https://www.youtube.com/watch?v=7WbQxpZSL1I)
+- [Ep 7: 💬 AI Chat with our Second Brain App &lpar;Genkit&rpar;](https://www.youtube.com/watch?v=5dLHl6PHo9E)
+- [Ep 5: 🔗 Second Brain App: Link to URLs and Articles!](https://www.youtube.com/watch?v=7WbQxpZSL1I)
 - [Ep 6: 🤖 Gemini AI Summaries for our Second Brain App!](https://www.youtube.com/watch?v=NRkkgKacBy4)
-- [Ep 4: 🔥 SwiftUI &amp; Firestore: Power Up Your Second Brain App!](https://www.youtube.com/watch?v=CouNXLciFws)
+- [Ep 4: 🦾 SwiftUI &amp; Firestore: Power Up Your Second Brain App!](https://www.youtube.com/watch?v=CouNXLciFws)
 - [Ep 3: 🔥 Connect Your App to Firestore! &lpar;Second Brain - SwiftUI&rpar;](https://www.youtube.com/watch?v=RXAV7hBW7qY)
-- [Ep 2: 🌐 Second Brain App: SwiftUI Navigation &amp; Web Views](https://www.youtube.com/watch?v=JwcniWZeczg)
 <!-- YOUTUBE-ALL:END -->
 
 ## My recent Firebase videos
