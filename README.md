@@ -14,7 +14,7 @@ I'm a Developer Advocate (which is just a fancy word for "Software Engineer who 
 
 ## My recent videos
 <!-- YOUTUBE-ALL:START -->
-- [S2 E1: 🤖 Genkit](https://www.youtube.com/watch?v=dB18NutAURo)
+- [S2 E1: 🤖 Genkit](https://www.youtube.com/watch?v=G-Xy0B-UZH8)
 - [Ep 9: w/ special guest 🎅🏻 🎄💫!](https://www.youtube.com/watch?v=cDVipmgJUa4)
 - [Ep 8: 🔑 Firebase Auth for our Second Brain App!](https://www.youtube.com/watch?v=kL2usGOIWas)
 - [Ep 7: 🛂 Firebase Auth for our Second Brain App!](https://www.youtube.com/watch?v=5dLHl6PHo9E)
