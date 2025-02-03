@@ -5,11 +5,11 @@ I'm a Developer Advocate (which is just a fancy word for "Software Engineer who 
 
 ## My recent posts on [peterfriese.dev](https://peterfriese.dev/)
 <!-- BLOG-POST-LIST:START -->
+- [Understanding SwiftUI Preferences](https://peterfriese.dev/blog/2025/swiftui-preferences-swift6/)
 - [Creating a reusable action menu component in SwiftUI](https://peterfriese.dev/blog/2025/swiftui-action-menu/)
 - [Creating custom SF Symbols using the SF Symbols app](https://peterfriese.dev/blog/2025/custom-sf-symbols/)
 - [Improve your app&#39;s UX with SwiftUI&#39;s task view modifier](https://peterfriese.dev/blog/2024/delay-task-modifier/)
 - [SwiftUI Hero Animations with NavigationTransition](https://peterfriese.dev/blog/2024/hero-animation/)
-- [Styling SwiftUI Views](https://peterfriese.dev/blog/2023/swiftui-styling-views/)
 <!-- BLOG-POST-LIST:END -->
 
 ## My recent videos
