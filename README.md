@@ -23,11 +23,11 @@ I'm a Developer Advocate (which is just a fancy word for "Software Engineer who 
 
 ## My recent Firebase videos
 <!-- YOUTUBE-FIREBASE:START -->
+- [Unlock the power of Gemini for your Firebase apps with RAG](https://www.youtube.com/watch?v=psuIEMPUfaE)
+- [How to connect your data to Gemini with Genkit and Firebase Data Connect](https://www.youtube.com/watch?v=3g2lNUe-cNY)
 - [Firebase After Hours #8: Firebase Demo Day](https://www.youtube.com/watch?v=0WOm5LrGlzw)
 - [Retrieval Augmented Generation made easy with Firebase Genkit](https://www.youtube.com/watch?v=P7_MfPMnnxs)
 - [Firebase After Hours #7: Firebase + Vertex AI: Level Up Your App with AI](https://www.youtube.com/watch?v=2YF3tXP0uho)
-- [Use JSON Mode to control the structure of a model&#39;s generated output](https://www.youtube.com/watch?v=LpfBxtCCkGM)
-- [Deploy Fearlessly with dry run in with the latest version of the Firebase CLI](https://www.youtube.com/watch?v=iuM_3RZ8RTE)
 <!-- YOUTUBE-FIREBASE:END -->
 
 
