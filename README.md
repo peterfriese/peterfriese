@@ -1,7 +1,6 @@
 # Hi, I'm Peter 👋🏼
-<img align="right" width="150" height="150" src="https://github.com/peterfriese/peterfriese/blob/master/octopeter/peterfriese-octocat-with-computer.png?raw=true">
 
-I'm a Developer Advocate (which is just a fancy word for "Software Engineer who loves to tinker around with technology and teach other people") on the Firebase team 🔥.
+I'm a Staff Developer Advocate (which is just a fancy word for "Software Engineer who loves to tinker around with technology and teach other people") on the Firebase team 🔥.
 
 ## My recent posts on [peterfriese.dev](https://peterfriese.dev/)
 <!-- BLOG-POST-LIST:START -->
@@ -37,4 +36,6 @@ I'm a Developer Advocate (which is just a fancy word for "Software Engineer who 
 - Writing about stuff I built on my blog, [`peterfriese.dev`](https://peterfriese.dev/) ✒️
 - Talking all things Firebase 🔥 and Swift 🍏 on YouTube: [`@peterfriese`](https://www.youtube.com/@peterfriese)
 - Chatting away on Twitter: [`@peterfriese`](https://twitter.com/peterfriese) 🐦
-- Oh, yeah - and of course, I am now on Mastodon: <a rel="nofollow me" href="https://iosdev.space/@peterfriese">`@peterfriese@iosdev.space`</a>
+- Enjoying the breath of fresh air on BlueSky: [`@peterfriese.dev`](https://bsky.app/profile/peterfriese.dev) 🦋
+- I'm also on Mastodon: [`@peterfriese@iosdev.space`](https://iosdev.space/@peterfriese) 🐘
+- ... and Threads, as well: [`@peterfriese`](https://www.threads.net/@peterfriese?hl=en) 🧵
