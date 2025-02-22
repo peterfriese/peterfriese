@@ -13,11 +13,11 @@ I'm a Staff Developer Advocate (which is just a fancy word for "Software Enginee
 
 ## My recent videos
 <!-- YOUTUBE-ALL:START -->
+- [Expense tracking with Genkit &amp; Gemini 2.0 Flash](https://www.youtube.com/watch?v=bs8BhefWxB4)
 - [S2 E4: 🤖 Genkit / Codable](https://www.youtube.com/watch?v=r0c43Aru-Z0)
 - [S2 E3: 🤖 Call Genkit from Swift](https://www.youtube.com/watch?v=y6GHN2rjG8c)
 - [S2 E2: 🤖 Genkit / RAG](https://www.youtube.com/watch?v=IqTCVAsNBBI)
 - [S2 E1: 🤖 Genkit](https://www.youtube.com/watch?v=G-Xy0B-UZH8)
-- [Ep 9: w/ special guest 🎅🏻 🎄💫!](https://www.youtube.com/watch?v=cDVipmgJUa4)
 <!-- YOUTUBE-ALL:END -->
 
 ## My recent Firebase videos
