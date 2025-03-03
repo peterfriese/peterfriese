@@ -13,11 +13,11 @@ I'm a Staff Developer Advocate (which is just a fancy word for "Software Enginee
 
 ## My recent videos
 <!-- YOUTUBE-ALL:START -->
+- [S2 E6:  Apple Intelligence](https://www.youtube.com/watch?v=VYoE8VzdsV0)
 - [S2 E5: 💬 Chat history with Genkit, Gemini, and SwiftUI](https://www.youtube.com/watch?v=eF00qbqxQb8)
 - [AI Expense Report Generator with Gemini 2.0 Flash and Genkit 1.0 for Node.js](https://www.youtube.com/watch?v=bs8BhefWxB4)
 - [S2 E4: 🤖 Genkit / Codable](https://www.youtube.com/watch?v=r0c43Aru-Z0)
 - [S2 E3: 🤖 Call Genkit from Swift](https://www.youtube.com/watch?v=y6GHN2rjG8c)
-- [S2 E2: 🤖 Genkit / RAG](https://www.youtube.com/watch?v=IqTCVAsNBBI)
 <!-- YOUTUBE-ALL:END -->
 
 ## My recent Firebase videos
