@@ -13,8 +13,8 @@ I'm a Staff Developer Advocate (which is just a fancy word for "Software Enginee
 
 ## My recent videos
 <!-- YOUTUBE-ALL:START -->
-- [S2 E8: SwiftUI Share Extension 🧩](https://www.youtube.com/watch?v=HyWxWgaKUQ0)
 - [S2 E7: 🎁 Sharing is caring](https://www.youtube.com/watch?v=8n76qWAo30I)
+- [S2 E8: SwiftUI Share Extension 🧩](https://www.youtube.com/watch?v=HyWxWgaKUQ0)
 - [S2 E6:  Apple Intelligence](https://www.youtube.com/watch?v=VYoE8VzdsV0)
 - [S2 E5: 💬 Chat history with Genkit, Gemini, and SwiftUI](https://www.youtube.com/watch?v=eF00qbqxQb8)
 - [AI Expense Report Generator with Gemini 2.0 Flash and Genkit 1.0 for Node.js](https://www.youtube.com/watch?v=bs8BhefWxB4)
