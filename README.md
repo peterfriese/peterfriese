@@ -13,11 +13,11 @@ I'm a Staff Developer Advocate (which is just a fancy word for "Software Enginee
 
 ## My recent videos
 <!-- YOUTUBE-ALL:START -->
+- [Building Better Apps with RocketSim - Special Guest Antoine van der Lee!](https://www.youtube.com/watch?v=4MtostISJTY)
 - [Can Claude create a Keynote slide deck for me?](https://www.youtube.com/watch?v=ax6t6mvawXE)
 - [S2 E9: Swift Packages 📦](https://www.youtube.com/watch?v=ACad_6YSMgw)
 - [S2 E8: SwiftUI Share Extension 🧩](https://www.youtube.com/watch?v=HyWxWgaKUQ0)
 - [S2 E7: 🎁 Sharing is caring](https://www.youtube.com/watch?v=8n76qWAo30I)
-- [S2 E6:  Apple Intelligence](https://www.youtube.com/watch?v=VYoE8VzdsV0)
 <!-- YOUTUBE-ALL:END -->
 
 ## My recent Firebase videos
