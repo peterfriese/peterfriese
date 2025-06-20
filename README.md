@@ -22,7 +22,7 @@ I'm a Staff Developer Advocate (which is just a fancy word for "Software Enginee
 
 ## My recent Firebase videos
 <!-- YOUTUBE-FIREBASE:START -->
-- [Gemini in Firebase Personalisation](https://www.youtube.com/watch?v=4MC2jgLwkJg)
+- [Gemini in Firebase Personalisation](https://www.youtube.com/shorts/4MC2jgLwkJg)
 - [Getting started with Genkit 1.0 for Node.js](https://www.youtube.com/watch?v=3p1P5grjXIQ)
 - [Unlock the power of Gemini for your Firebase apps with RAG](https://www.youtube.com/shorts/psuIEMPUfaE)
 - [How to connect your data to Gemini with Genkit and Firebase Data Connect](https://www.youtube.com/shorts/3g2lNUe-cNY)
