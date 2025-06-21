@@ -4,11 +4,11 @@ I'm a Staff Developer Advocate (which is just a fancy word for "Software Enginee
 
 ## My recent posts on [peterfriese.dev](https://peterfriese.dev/)
 <!-- BLOG-POST-LIST:START -->
+- [Reverse-Engineering Xcode’s Coding Intelligence prompt](https://peterfriese.dev/blog/2025/reveng-xcode-coding-intelligence/)
 - [Extracting structured data from PDFs using Gemini 2.0 and Genkit](https://peterfriese.dev/blog/2025/gemini-genkit-pdf-structured-data/)
 - [Understanding SwiftUI Preferences](https://peterfriese.dev/blog/2025/swiftui-preferences-swift6/)
 - [Creating a reusable action menu component in SwiftUI](https://peterfriese.dev/blog/2025/swiftui-action-menu/)
 - [Creating custom SF Symbols using the SF Symbols app](https://peterfriese.dev/blog/2025/custom-sf-symbols/)
-- [Improve your app&#39;s UX with SwiftUI&#39;s task view modifier](https://peterfriese.dev/blog/2024/delay-task-modifier/)
 <!-- BLOG-POST-LIST:END -->
 
 ## My recent videos
