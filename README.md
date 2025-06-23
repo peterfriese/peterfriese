@@ -22,11 +22,11 @@ I'm a Staff Developer Advocate (which is just a fancy word for "Software Enginee
 
 ## My recent Firebase videos
 <!-- YOUTUBE-FIREBASE:START -->
+- [AI app development with Firebase, from prototype to production](https://www.youtube.com/watch?v=rxKYK3DIzN0)
 - [Gemini in Firebase Personalisation](https://www.youtube.com/shorts/4MC2jgLwkJg)
 - [Getting started with Genkit 1.0 for Node.js](https://www.youtube.com/watch?v=3p1P5grjXIQ)
 - [Unlock the power of Gemini for your Firebase apps with RAG](https://www.youtube.com/shorts/psuIEMPUfaE)
 - [How to connect your data to Gemini with Genkit and Firebase Data Connect](https://www.youtube.com/shorts/3g2lNUe-cNY)
-- [Firebase After Hours #8: Firebase Demo Day](https://www.youtube.com/watch?v=0WOm5LrGlzw)
 <!-- YOUTUBE-FIREBASE:END -->
 
 
