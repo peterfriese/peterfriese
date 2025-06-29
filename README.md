@@ -13,9 +13,9 @@ I'm a Staff Developer Advocate (which is just a fancy word for "Software Enginee
 
 ## My recent videos
 <!-- YOUTUBE-ALL:START -->
-- [S3 E1: WWDC25 Edition](https://www.youtube.com/watch?v=tmPwLamVGYM)
+- [ WWDC25 Edition - Second Brain &lpar;S3 E1&rpar;](https://www.youtube.com/watch?v=tmPwLamVGYM)
 - [Better Error Messages with ErrorKit - Special Guest Cihat Gündüz!](https://www.youtube.com/watch?v=ha9fzJEJDvk)
-- [S2 E10: Streaming Cloud Functions](https://www.youtube.com/watch?v=Xf0JO1sEnFw)
+- [🚰 Stream Cloud Functions - Second Brain &lpar;S2 E10&rpar;](https://www.youtube.com/watch?v=Xf0JO1sEnFw)
 - [Building Better Apps with RocketSim - Special Guest Antoine van der Lee!](https://www.youtube.com/watch?v=4MtostISJTY)
 - [Can Claude create a Keynote slide deck for me?](https://www.youtube.com/watch?v=ax6t6mvawXE)
 <!-- YOUTUBE-ALL:END -->
