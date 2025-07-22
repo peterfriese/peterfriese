@@ -13,11 +13,11 @@ I'm a Staff Developer Advocate (which is just a fancy word for "Software Enginee
 
 ## My recent videos
 <!-- YOUTUBE-ALL:START -->
+- [Custom Chat Bubbles with SwiftUI](https://www.youtube.com/watch?v=sLX4khFLebQ)
 - [Peanuts in a bar considered harmful?](https://www.youtube.com/watch?v=1zloAVUiYJM)
 - [Liquid Glass update!](https://www.youtube.com/watch?v=7jHo4DuFJ8U)
 - [ WWDC25 Edition - Second Brain &lpar;S3 E1&rpar;](https://www.youtube.com/watch?v=tmPwLamVGYM)
 - [Better Error Messages with ErrorKit - Special Guest Cihat Gündüz!](https://www.youtube.com/watch?v=ha9fzJEJDvk)
-- [🚰 Stream Cloud Functions - Second Brain &lpar;S2 E10&rpar;](https://www.youtube.com/watch?v=Xf0JO1sEnFw)
 <!-- YOUTUBE-ALL:END -->
 
 ## My recent Firebase videos
