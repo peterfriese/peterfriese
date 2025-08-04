@@ -13,11 +13,11 @@ I'm a Staff Developer Advocate (which is just a fancy word for "Software Enginee
 
 ## My recent videos
 <!-- YOUTUBE-ALL:START -->
+- [How to support iOS 26 without breaking glass - Second Brain &lpar;S3 E5&rpar;](https://www.youtube.com/watch?v=UXG7U6iFxxM)
 - [Customising the Chat View](https://www.youtube.com/watch?v=qyV6LuUHvv8)
 - [Custom Chat Bubbles with SwiftUI](https://www.youtube.com/watch?v=sLX4khFLebQ)
 - [Peanuts in a bar considered harmful?](https://www.youtube.com/watch?v=1zloAVUiYJM)
 - [Liquid Glass update!](https://www.youtube.com/watch?v=7jHo4DuFJ8U)
-- [ WWDC25 Edition - Second Brain &lpar;S3 E1&rpar;](https://www.youtube.com/watch?v=tmPwLamVGYM)
 <!-- YOUTUBE-ALL:END -->
 
 ## My recent Firebase videos
