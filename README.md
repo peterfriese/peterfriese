@@ -13,11 +13,11 @@ I'm a Staff Developer Advocate (which is just a fancy word for "Software Enginee
 
 ## My recent videos
 <!-- YOUTUBE-ALL:START -->
+- [Hybrid AI - Building a Second Brain app &lpar;S3 E8&rpar;](https://www.youtube.com/watch?v=vQ-clCjkZws)
 - [IdentityKit - Building a Reusable Auth UI in SwiftUI for iOS 26](https://www.youtube.com/watch?v=Cqb1M1mgCqs)
 - [Gemini cleans up my code!](https://www.youtube.com/watch?v=hCQYhWN1ZxU)
 - [Unlock SwiftUI&#39;s hidden power with this backporting secret!](https://www.youtube.com/watch?v=UXG7U6iFxxM)
 - [Customising the Chat View](https://www.youtube.com/watch?v=qyV6LuUHvv8)
-- [Custom Chat Bubbles with SwiftUI](https://www.youtube.com/watch?v=sLX4khFLebQ)
 <!-- YOUTUBE-ALL:END -->
 
 ## My recent Firebase videos
