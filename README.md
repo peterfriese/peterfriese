@@ -13,11 +13,11 @@ I'm a Staff Developer Advocate (which is just a fancy word for "Software Enginee
 
 ## My recent videos
 <!-- YOUTUBE-ALL:START -->
+- [Never Ship a Bad AI Prompt Again: Dynamic iOS AI with Firebase Remote Config](https://www.youtube.com/watch?v=u_ZYmX1fbeI)
 - [Hybrid AI in Swift: Building with Local &amp; Remote Inference &lpar;Apple Intelligence &amp; Firebase&rpar;](https://www.youtube.com/watch?v=vQ-clCjkZws)
 - [IdentityKit - Building a Reusable Auth UI in SwiftUI for iOS 26](https://www.youtube.com/watch?v=Cqb1M1mgCqs)
 - [Gemini cleans up my code!](https://www.youtube.com/watch?v=hCQYhWN1ZxU)
 - [Unlock SwiftUI&#39;s hidden power with this backporting secret!](https://www.youtube.com/watch?v=UXG7U6iFxxM)
-- [Customising the Chat View](https://www.youtube.com/watch?v=qyV6LuUHvv8)
 <!-- YOUTUBE-ALL:END -->
 
 ## My recent Firebase videos
