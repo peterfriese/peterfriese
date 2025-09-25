@@ -13,11 +13,11 @@ I'm a Staff Developer Advocate (which is just a fancy word for "Software Enginee
 
 ## My recent videos
 <!-- YOUTUBE-ALL:START -->
+- [SwiftUI WebView reloaded: adding a &quot;View Original&quot; feature](https://www.youtube.com/watch?v=jxootvtpEZ8)
 - [How to Use the New SwiftUI WebView &lpar;And Support Older iOS Versions&rpar;](https://www.youtube.com/watch?v=OlHahqE43gA)
 - [Never Ship a Bad AI Prompt Again: Dynamic iOS AI with Firebase Remote Config](https://www.youtube.com/watch?v=u_ZYmX1fbeI)
 - [Hybrid AI in Swift: Building with Local &amp; Remote Inference &lpar;Apple Intelligence &amp; Firebase&rpar;](https://www.youtube.com/watch?v=vQ-clCjkZws)
 - [IdentityKit - Building a Reusable Auth UI in SwiftUI for iOS 26](https://www.youtube.com/watch?v=Cqb1M1mgCqs)
-- [Gemini cleans up my code!](https://www.youtube.com/watch?v=hCQYhWN1ZxU)
 <!-- YOUTUBE-ALL:END -->
 
 ## My recent Firebase videos
