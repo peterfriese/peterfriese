@@ -22,11 +22,11 @@ I'm a Staff Developer Advocate (which is just a fancy word for "Software Enginee
 
 ## My recent Firebase videos
 <!-- YOUTUBE-FIREBASE:START -->
+- [Implementing chat with Firebase AI Logic on iOS](https://www.youtube.com/watch?v=AZ_JYSYUmg4)
 - [Firebase After Hours #13: From Zero to Hosted: Pushing the Limits of Firebase App Hosting](https://www.youtube.com/watch?v=8vojkFvKT1U)
 - [Firebase After Hours #12: Streaming in Cloud Functions for Firebase! ☁️](https://www.youtube.com/watch?v=IuSH0VHazcA)
 - [AI app development with Firebase, from prototype to production](https://www.youtube.com/watch?v=rxKYK3DIzN0)
 - [Gemini in Firebase Personalisation](https://www.youtube.com/shorts/4MC2jgLwkJg)
-- [Genkit: Building a NotebookLM clone - Firebase After Hours LIVE](https://www.youtube.com/watch?v=ZBM9BQz_S_A)
 <!-- YOUTUBE-FIREBASE:END -->
 
 
