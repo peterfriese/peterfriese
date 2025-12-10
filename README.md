@@ -13,7 +13,7 @@ I'm a Staff Developer Advocate (which is just a fancy word for "Software Enginee
 
 ## My recent videos
 <!-- YOUTUBE-ALL:START -->
-- [Stop Pasting Screenshots: Cinematic Code Animations in Keynote | ! Force Unwrapped Ep. 1](https://www.youtube.com/watch?v=24aniIbmOSI)
+- [Create Cinematic Code Animations in Keynote](https://www.youtube.com/watch?v=24aniIbmOSI)
 - [Live coding in Antigravity: Building a Second Brain app ⚡️](https://www.youtube.com/watch?v=2c11BL9Xorc)
 - [Mastering Firestore snapshot listeners with Swift AsyncStreams &amp; Structured Concurrency](https://www.youtube.com/watch?v=1OJe57kDf3Y)
 - [SwiftUI WebView reloaded: adding a &quot;View Original&quot; feature](https://www.youtube.com/watch?v=jxootvtpEZ8)
