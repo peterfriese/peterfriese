@@ -13,7 +13,7 @@ I'm a Staff Developer Advocate (which is just a fancy word for "Software Enginee
 
 ## My recent videos
 <!-- YOUTUBE-ALL:START -->
-- [Building Smart Tags: From Data Model to Beautiful UI](https://www.youtube.com/watch?v=Z-KB7gOnE_E)
+- [AI-powered Swift dev: building a tagging system with Gemini &amp; Firebase](https://www.youtube.com/watch?v=Z-KB7gOnE_E)
 - [The Final Commit of 2025: Adding &quot;Sign in with Apple&quot; to the browser extensions - with Antigravity!](https://www.youtube.com/watch?v=c4AcJjE6aTU)
 - [Create Cinematic Code Animations in Keynote](https://www.youtube.com/watch?v=24aniIbmOSI)
 - [Live coding in Antigravity: Building a Second Brain app ⚡️](https://www.youtube.com/watch?v=2c11BL9Xorc)
