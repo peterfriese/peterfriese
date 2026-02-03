@@ -13,7 +13,7 @@ I'm a Staff Developer Advocate (which is just a fancy word for "Software Enginee
 
 ## My recent videos
 <!-- YOUTUBE-ALL:START -->
-- [Smart Tagging - Improving the UX | Sofia S4E4](https://www.youtube.com/watch?v=7y87nuq9x5Y)
+- [How to build a better tagging UI in SwiftUI with Antigravity | Sofia S4E4](https://www.youtube.com/watch?v=7y87nuq9x5Y)
 - [Implementing Auto-Tagging with Gemini &amp; Firebase | Sofia S4E3](https://www.youtube.com/watch?v=t3CgMsrJoQo)
 - [I planned a feature, but my app crashed &lpar;Live debugging with Antigravity&rpar;](https://www.youtube.com/watch?v=O-XbrEy9DRc)
 - [AI-powered Swift dev: building a tagging system with Gemini &amp; Firebase](https://www.youtube.com/watch?v=Z-KB7gOnE_E)
