@@ -13,7 +13,7 @@ I'm a Staff Developer Advocate (which is just a fancy word for "Software Enginee
 
 ## My recent videos
 <!-- YOUTUBE-ALL:START -->
-- [Swift, Gemini CLI and Pickle Rick | Sofia S5E1](https://www.youtube.com/watch?v=MT2faGlRHNM)
+- [I let an AI agent build a Swift SDK &lpar;Pickle Rick &amp; Gemini CLI&rpar;](https://www.youtube.com/watch?v=MT2faGlRHNM)
 - [Gemini CLI: How to activate Agent Skills &lpar;NEW: Slash command-style&rpar;](https://www.youtube.com/watch?v=bjqrPpmxkKc)
 - [Smart Tags Evolved: Renaming, Grounding, Better UX | Sofia S4E6](https://www.youtube.com/watch?v=rymjDgQ9O5w)
 - [Multi-agent coding with Antigravity | Sofia S4E5](https://www.youtube.com/watch?v=bCz3Pc041ME)
