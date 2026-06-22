@@ -22,11 +22,11 @@ I'm a Staff Developer Advocate (which is just a fancy word for "Software Enginee
 
 ## My recent Firebase videos
 <!-- YOUTUBE-FIREBASE:START -->
-- [Bringing Gemini to Apple&#39;s Foundation Models API](https://www.youtube.com/watch?v=qx5QWrKhxM8)
 - [Breaking down tasks &lpar;without breaking the app&rpar; | Code, Commit, Deploy, Repeat &lpar;S1E8&rpar;](https://www.youtube.com/watch?v=JZLSWqSSojo)
 - [Firebase After Hours #24: Firestore Full Text Search &amp; Geoqueries built with Antigravity](https://www.youtube.com/watch?v=sYY1NweSlEc)
 - [List sharing feature implementation wrap up | Code, Commit, Deploy, Repeat &lpar;S1E7&rpar;](https://www.youtube.com/watch?v=j2cgfKQ10KE)
 - [Role-Based Access Control &lpar;RBAC&rpar; implementation wrap up | Code, Commit, Deploy, Repeat &lpar;S1E6&rpar;](https://www.youtube.com/watch?v=zeJ3jTXLYQ0)
+- [Role-based Access Control and Sharing lists | Code, Commit, Deploy, Repeat &lpar;S1E5&rpar;](https://www.youtube.com/watch?v=ETHD_CKfIjA)
 <!-- YOUTUBE-FIREBASE:END -->
 
 
