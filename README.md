@@ -13,11 +13,11 @@ I'm a Staff Developer Advocate (which is just a fancy word for "Software Enginee
 
 ## My recent videos
 <!-- YOUTUBE-ALL:START -->
+- [Setting up Gemini in Xcode&#39;s Coding Agent](https://www.youtube.com/watch?v=8cpFOpW_PB4)
 - [Agentic coding a Swift SDK, Part 2](https://www.youtube.com/watch?v=2dyP0ORU8ic)
 - [Agentic coding a Swift SDK](https://www.youtube.com/watch?v=kosc_Z-LxVw)
 - [Peter Friese Live Stream](https://www.youtube.com/watch?v=IPrkGUY8QCk)
 - [What is Pickle Rick?!?](https://www.youtube.com/watch?v=oyRyYduAXP8)
-- [I let an AI agent build a Swift SDK &lpar;Pickle Rick &amp; Gemini CLI&rpar;](https://www.youtube.com/watch?v=MT2faGlRHNM)
 <!-- YOUTUBE-ALL:END -->
 
 ## My recent Firebase videos
